@@ -11,5 +11,5 @@ PhD of Pure Mathematics, Shanghai Center for Mathematical Sciences, Fudan Univer
 B.S. of Mathematics and Applied Mathematics (Honors Degree), Fudan University, 2020—2024.
 
 #### Research Interests
-Combinatorics; Graph Theory; Optimization
+Combinatorics; Graph Theory
 
