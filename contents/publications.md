@@ -17,6 +17,12 @@
 #### Preprints
 
 
+1. **Hypergraph independence bounds: from maximum degree to average degree.**
+   Jing Yu, and **Junchi Zhang**.
+    [[Link]](https://arxiv.org/abs/2604.28046)
+
+
+
 1. **Linear Turán Number of $P_5$ in 3-graphs.**
    Chaoliang Tang, Hehui Wu, and **Junchi Zhang**.
     [[Link]](https://arxiv.org/abs/2601.19068)
